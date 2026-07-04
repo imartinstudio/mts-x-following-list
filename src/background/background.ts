@@ -57,3 +57,5 @@ chrome.tabs.onUpdated.addListener((tabId, changeInfo, tab) => {
   if (!isXUrl(tab.url) || !isFollowingUrl(tab.url)) return;
   void ensureContentScript(tabId);
 });
+
+export {};
