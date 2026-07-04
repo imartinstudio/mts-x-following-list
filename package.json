@@ -4,6 +4,15 @@
   "private": true,
   "type": "module",
   "description": "Standalone Chrome MV3 extension to filter, select, and bulk-unfollow on X following lists. 独立项目：X 关注列表筛选与批量取关。",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/imartinstudio/mts-x-following-list.git"
+  },
+  "homepage": "https://github.com/imartinstudio/mts-x-following-list#readme",
+  "bugs": {
+    "url": "https://github.com/imartinstudio/mts-x-following-list/issues"
+  },
   "scripts": {
     "build": "node ./build.mjs",
     "typecheck": "tsc --noEmit",
