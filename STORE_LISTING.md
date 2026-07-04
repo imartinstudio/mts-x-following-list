@@ -36,7 +36,7 @@
 
 本项目完全开源，代码托管在 GitHub：
 
-https://github.com/imartinstudio/yt2x
+https://github.com/imartinstudio/mts-x-following-list
 
 ---
 
@@ -60,5 +60,5 @@ https://github.com/imartinstudio/yt2x
 ## 隐私政策 URL
 
 ```
-https://raw.githubusercontent.com/imartinstudio/yt2x/main/packages/x-following-extension/privacy/index.html
+https://raw.githubusercontent.com/imartinstudio/mts-x-following-list/main/privacy/index.html
 ```
