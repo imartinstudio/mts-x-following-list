@@ -1,5 +1,9 @@
 # mts-x-following-list
 
+[![CI](https://github.com/imartinstudio/mts-x-following-list/actions/workflows/ci.yml/badge.svg)](https://github.com/imartinstudio/mts-x-following-list/actions/workflows/ci.yml)
+[![License: MIT](https://img.shields.io/github/license/imartinstudio/mts-x-following-list)](LICENSE)
+[![Release](https://img.shields.io/github/v/release/imartinstudio/mts-x-following-list)](https://github.com/imartinstudio/mts-x-following-list/releases)
+
 **X 清道夫** — 独立的 Chrome MV3 扩展：在 X (Twitter) 关注列表页筛选、勾选并批量取消关注。
 
 从内部 monorepo 拆分独立维护，零外部运行时依赖。许可证：[MIT](LICENSE)
